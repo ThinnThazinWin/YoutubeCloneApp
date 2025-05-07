@@ -30,7 +30,7 @@ export default () => {
 
   //Secondly, I checkout feature branch
 
-  //I checkout dev branch and update this line
+  //I checkout dev branch
   return (
     <Grid style={{ justifyContent: "center" }} container spacing={10}>
       <Grid item xs={11}>
